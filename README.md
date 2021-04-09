@@ -19,6 +19,6 @@ whit this is feel very confident to say that I'm a pretty social person. I like 
 and collaborating.
 I've learn some project management methodologies, I want to be a good leader in the future and an exelent software engineer!.
 ### List of Some projects that i made.
-- https://bascontti.com/ Designed by Silvana Alvarado, programed by me
-- https://e-smart.cl/ Dessigned by Silvana Alvarado, Programed by me
+- https://bascontti.com/ Designed by Silvana Alvarado, coded by me
+- https://e-smart.cl/ Dessigned by Silvana Alvarado, coded by me
 - https://app.e-smart.cl/ Created by a great team with me included
