@@ -18,7 +18,7 @@ about infrastructures or anything, using your time only on deploying a good-look
 whit this is feel very confident to say that I'm a pretty social person. I like to expose my ideas, and argue with the people, in the right way of course, listening to the ideas of others 
 and collaborating.
 I've learn some project management methodologies, I want to be a good leader in the future and an exelent software engineer!.
-### List of Some projects that i made.
+### List of Some projects
 - https://bascontti.com/ Designed by Silvana Alvarado, coded by me
 - https://e-smart.cl/ Dessigned by Silvana Alvarado, coded by me
 - https://app.e-smart.cl/ Created by a great team with me included
