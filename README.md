@@ -22,3 +22,6 @@ I've learn some project management methodologies, I want to be a good leader in 
 - https://bascontti.com/ Designed by Silvana Alvarado, coded by me
 - https://e-smart.cl/ Dessigned by Silvana Alvarado, coded by me
 - https://app.e-smart.cl/ Created by a great team with me included
+
+current contribution!
+![image](https://user-images.githubusercontent.com/40066288/121753530-8b17a600-cae0-11eb-991a-a6255b35e287.png)
