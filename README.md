@@ -1,5 +1,5 @@
-👋 Hi, I’m @AlvareYN a 25-year-old Software engineer who loves coding and the tech industry.
-Currently working on a IOT company bringing automatization to any industrial process, like water pump that you can control from the comfort of your house.
+👋 Hi, I'm @AlvareYN a 25-year-old Software engineer who loves coding and the tech industry.
+Currently working on a huge Tech company name Mercado Libre in LATAM.
 ### Main Skills:
 - JavaScript’s my main power, I've been using it for at least 4 years now, and I love it. (typescript included)
 - Node.js, the same but, at the server
