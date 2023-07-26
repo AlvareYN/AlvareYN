@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mercado Libre**
 
-- 🌱 I’m currently learning **DevSecOps & BlockChain Development**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **JavaScript, Application Security, Infraestructure, full-stack development**
 
