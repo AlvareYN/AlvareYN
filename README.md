@@ -7,10 +7,9 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Currently **Engineering Manager at BUK**, leading engineering teams and driving technical excellence
-- 🏢 Previously **CTO at e-smart** - defined tech stack, architecture, and development methodologies
+- 🚀 Currently **Engineering Manager at BUK**
+- 🏢 Previously **CTO at e-smart** - defined tech stack, architecture, and development methodologies for an IoT company
 - 💼 **3 years at Mercado Libre** as Backend Engineer, Cybersecurity Engineer, and SSr Software Engineer
-- 🔐 Specialized in **Application Security, Infrastructure, and System Design**
 - 🛠️ Building **scalable distributed systems** and **secure full-stack applications**
 - 🌱 Currently deepening my expertise in **System Design, Engineering Leadership, and AI-Assisted Development**
 
