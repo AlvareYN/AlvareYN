@@ -16,11 +16,16 @@
 
 ### 💬 Ask Me About
 
-**Backend & Infrastructure**: Node.js, Python, Java, Django, Flask, Express, NestJS, Spring 
+**Backend & Infrastructure**: Node.js, Python, Java, Django, Flask, Express, NestJS, Spring
+
 **Security**: Application Security, Infrastructure Security, Secure Architecture  
+
 **Frontend**: React, Next.js, Svelte, Sveltekit, TypeScript, JavaScript 
+
 **DevOps & Cloud**: AWS, GCP, Docker, Kubernetes, Terraform, CI/CD  
+
 **Databases**: PostgreSQL, MongoDB, MySQL, Redis  
+
 **AI Tools**: GitHub Copilot, Cursor, Gemini, AI-assisted development
 
 ### 📫 Connect With Me
